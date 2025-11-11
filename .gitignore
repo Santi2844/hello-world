@@ -1,0 +1,33 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.code-workspace
+
+# Build folders
+/build/
+/cmake-build-*/
+
+# Mac/Linux hidden files
+.DS_Store
